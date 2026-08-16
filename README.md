@@ -27,10 +27,14 @@
 
 ### Educations
 - 건국대학교 서울캠퍼스 (Konkuk University, 2020.03~2026.02)
+
+### Experinces
 - 삼성청년SW아카데미(SSAFY) 15기 (2026.01 ~ ing)
 
 ### Certificates
 - 정보처리기사
 - SQLD
+
+### Languages
 - OPIC IM1
 - JLPT N2
