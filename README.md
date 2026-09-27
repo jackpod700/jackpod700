@@ -32,7 +32,7 @@
 - 삼성청년SW아카데미(SSAFY) 15기 (2026.01 ~ ing)
 
 ### Awards
-- 삼성청년SW아카데미(SSAFY) 1학기 성적최우수상
+- 삼성청년SW아카데미(SSAFY) 1학기 성적우수상(1위)
 - 삼성청년SW아카데미(SSAFY) 1학기 관통프로젝트 최우수상
 
 ### Certificates
